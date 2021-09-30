@@ -1,6 +1,6 @@
 ## Background
 
-This is a small sample project that connects to a [weather api](https://weatherstack.com/documentation) using an API key backed by a standard weatherstack account. This project attempts to find locations matching a user entered search term and also displays current and historical weather data for that location on a separate screen. This project uses many of the same tools we use in our Coupa mobile application, including:
+This is a small sample project that connects to a [weather api](https://weatherstack.com/documentation) using an API key backed by a standard weatherstack account. This project attempts to find locations matching a user entered search term and also displays current and historical weather data for that location on a separate screen. This project uses some of the same tools that includes:
 
 - React-Native (0.64)
 - Redux w/ Thunk
