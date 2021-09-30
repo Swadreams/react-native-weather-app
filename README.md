@@ -37,8 +37,6 @@ To run the app in an Android Emulator
 - Start an Android emulator using the AVD Manager within Android Studio or a method of your choosing.
 - `npx react-native run-android` from the project root.
 
-![ScreenShot](https://raw.githubusercontent.com/Swadreams/react-native-weather-app/main/screenshots/Screenshot%202021-09-30%20at%2010.28.30%20AM.png)
-
 # Demo :
 
 ![ScreenShot](https://github.com/Swadreams/react-native-weather-app/blob/main/screenshots/WeatherApp.gif)
