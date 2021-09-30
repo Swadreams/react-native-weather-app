@@ -38,3 +38,27 @@ To run the app in an Android Emulator
 - `npx react-native run-android` from the project root.
 
 ![ScreenShot](https://raw.githubusercontent.com/Swadreams/react-native-weather-app/main/screenshots/Screenshot%202021-09-30%20at%2010.28.30%20AM.png)
+
+# Demo :
+
+![ScreenShot](https://github.com/Swadreams/react-native-weather-app/blob/main/screenshots/WeatherApp.gif)
+
+# Home Screen With current location data :
+
+![ScreenShot](https://github.com/Swadreams/react-native-weather-app/blob/main/screenshots/Screenshot%202021-09-30%20at%2010.28.52%20AM.png)
+
+# Home Screen Search Result :
+
+![ScreenShot](https://github.com/Swadreams/react-native-weather-app/blob/main/screenshots/Screenshot%202021-09-30%20at%2010.28.47%20AM.png)
+
+# Selected Location Data :
+
+![ScreenShot](https://github.com/Swadreams/react-native-weather-app/blob/main/screenshots/Screenshot%202021-09-30%20at%2010.28.30%20AM.png)
+
+# Historical Data Screeen :
+
+![ScreenShot](https://github.com/Swadreams/react-native-weather-app/blob/main/screenshots/Screenshot%202021-09-30%20at%2010.28.36%20AM.png)
+
+# Calendar To select historical date :
+
+![ScreenShot](https://github.com/Swadreams/react-native-weather-app/blob/main/screenshots/Screenshot%202021-09-30%20at%2010.28.41%20AM.png)
