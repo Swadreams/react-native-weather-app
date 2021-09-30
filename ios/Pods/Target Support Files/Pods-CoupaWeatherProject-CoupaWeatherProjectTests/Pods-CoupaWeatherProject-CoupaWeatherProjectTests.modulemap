@@ -1,0 +1,6 @@
+module Pods_CoupaWeatherProject_CoupaWeatherProjectTests {
+  umbrella header "Pods-CoupaWeatherProject-CoupaWeatherProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

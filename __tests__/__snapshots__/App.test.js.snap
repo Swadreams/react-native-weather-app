@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component  renders correctly 1`] = `
+<component
+  navigation={
+    Object {
+      "addListener": [MockFunction],
+      "canGoBack": [MockFunction],
+      "dangerouslyGetParent": [MockFunction],
+      "dangerouslyGetState": [MockFunction],
+      "dispatch": [MockFunction],
+      "goBack": [MockFunction],
+      "isFocused": [MockFunction],
+      "navigate": [MockFunction],
+      "pop": [MockFunction],
+      "popToTop": [MockFunction],
+      "push": [MockFunction],
+      "removeListener": [MockFunction],
+      "replace": [MockFunction],
+      "reset": [MockFunction],
+      "setOptions": [MockFunction],
+      "setParams": [MockFunction],
+    }
+  }
+  route={
+    Object {
+      "key": "Locations",
+      "name": undefined,
+    }
+  }
+/>
+`;
